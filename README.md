@@ -511,7 +511,6 @@ In the eleventh week, you'll bring all the concepts together in a real-world pro
 - Presenting the project to the class
 - Receiving feedback from classmates and instructors
 
-
 ## Contribution
 
 Feel free to contribute to this project! If you have suggestions, improvements, or new content to add.
