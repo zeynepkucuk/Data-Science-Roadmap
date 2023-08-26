@@ -33,6 +33,7 @@ To begin your data science journey, follow the weekly breakdown outlined below. 
 
 In the first week, you'll receive a comprehensive introduction to the field of data science. This includes an overview of the data science process, the tools and technologies used, and a dive into the Python programming language.
 
+**Day 1:** 
 
 You'll start by understanding the course's structure and setting your expectations and goals. You'll then learn what data science is and gain insights into the data science process.
 
@@ -81,29 +82,136 @@ Introduction to Jupyter Notebook – learn how to set it up, run basic code, use
 
 
 ## Week 2: Data Exploration and Visualization
+The second week focuses on data exploration and visualization, essential skills for understanding and communicating insights from data. You'll dive into the essential skills of data exploration and visualization using Pandas, Matplotlib, and Seaborn.
 
-The second week focuses on data exploration and visualization, essential skills for understanding and communicating insights from data.
+- Introduction to Pandas library
+- Reading and manipulating data with Pandas
+- Basic data exploration and visualization techniques (describing data, histograms, scatter plots, etc.)
+- Introduction to Seaborn library
 
-**Day 1:** Introduction to the Pandas library for data manipulation and analysis. Learn about data structures like Series and DataFrame.
+**Day 1: Introduction to Pandas library**
 
-**Day 2:** Dig deeper into Pandas – reading and manipulating data from various sources (CSV, Excel, JSON), exploring data using methods like `head`, `tail`, and `shape`, selecting and filtering data, handling missing values, and performing grouping and aggregation.
+Introduction to the Pandas library for data manipulation and analysis. Learn about data structures like Series and DataFrame.
 
-**Day 3:** Explore basic data exploration and visualization techniques using Matplotlib. Learn to describe data (mean, median, mode), create histograms, box plots, and scatter plots.
+- Installation and setup of Pandas
+- Importing Pandas and checking the version
+- Understanding Pandas data structures (Series and DataFrame)
 
-**Day 4:** Introduction to the Seaborn library for advanced data visualization. Install and set up Seaborn, compare it with Matplotlib, and create various plots such as `distplot`, `countplot`, and `violinplot`.
+**Day 2: Reading and manipulating data with Pandas**
+ Dig deeper into Pandas – reading and manipulating data from various sources (CSV, Excel, JSON), exploring data using methods like `head`, `tail`, and `shape`, selecting and filtering data, handling missing values, and performing grouping and aggregation.
+ 
+- Reading data from various sources (CSV, Excel, JSON, etc.)
+- Basic data exploration (head, tail, shape, etc.)
+- Selecting and filtering data
+- Handling missing values
+- Grouping and aggregating data
 
-**Day 5:** Dive deeper into Seaborn – learn about pair plots, facet plots, heatmaps, and joint plots for more advanced visualization techniques.
+**Day 3: Basic data exploration and visualization techniques with Matplotlib**
+Explore basic data exploration and visualization techniques using Matplotlib. Learn to describe data (mean, median, mode), create histograms, box plots, and scatter plots.
+
+- Describing data (mean, median, mode, etc.)
+- Creating histograms
+- Box plots
+- Scatter plots
+
+**Day 4: Introduction to Seaborn library**
+Introduction to the Seaborn library for advanced data visualization. Install and set up Seaborn, compare it with Matplotlib, and create various plots such as `distplot`, `countplot`, and `violinplot`.
+
+- Installation and setup of Seaborn
+- Importing Seaborn and checking the version
+- Comparison of Matplotlib and Seaborn
+- Creating various plots with Seaborn (distplot, countplot, violinplot, etc.)
+
+**Day 5: Advanced data visualization with Seaborn**
+Dive deeper into Seaborn – learn about pair plots, facet plots, heatmaps, and joint plots for more advanced visualization techniques.
+
+- Pair plots
+- Facet plots
+- Heatmaps
+- Joint plots
+
 
 ## Week 3: Data Preprocessing and Cleaning
 
-Data preprocessing is crucial for preparing your data for analysis. This week covers techniques like handling missing data, outliers, feature scaling, and encoding categorical variables.
+Data preprocessing is crucial for preparing your data for analysis. This week covers techniques like handling missing data, outliers, feature scaling, and encoding categorical variables. 
+In the third week, you'll learn essential techniques for preparing and cleaning your data for analysis.
 
-**Day 1:** Understand the importance of data preprocessing and different types of techniques used. Recognize how data preprocessing impacts the quality of your analysis.
+- Missing data and its handling
+- Outlier detection and treatment
+- Feature scaling and normalization
+- Encoding categorical variables
+- Introduction to scikit-learn library
 
-**Day 2:** Learn about missing data – what it is, strategies for handling it, and techniques for imputing missing data in Python.
+**Day 1: Introduction to Data Preprocessing**
+Understand the importance of data preprocessing and different types of techniques used. Recognize how data preprocessing impacts the quality of your analysis.
 
-**Day 3:** Dive into outlier detection and treatment – understand what outliers are, strategies for dealing with them, and techniques to identify outliers using Python.
+- The importance of data preprocessing
+- Types of data preprocessing techniques
 
-**Day 4:** Explore feature scaling techniques – understand why feature scaling is important, learn about different scaling techniques, and implement them in Python.
+**Day 2: Handling Missing Data**
+Learn about missing data – what it is, strategies for handling it, and techniques for imputing missing data in Python.
 
-**Day 5:** Focus on data cleaning and preparation – discover techniques for cleaning and preparing your data for analysis using Python.
+- Understanding missing data
+- Strategies for handling missing data
+- Missing data imputation techniques in Python
+
+**Day 3: Handling Outliers**
+Dive into outlier detection and treatment – understand what outliers are, strategies for dealing with them, and techniques to identify outliers using Python.
+
+- Understanding outliers
+- Strategies for handling outliers
+- Outlier detection techniques in Python
+
+**Day 4: Feature Scaling**
+Explore feature scaling techniques – understand why feature scaling is important, learn about different scaling techniques, and implement them in Python.
+
+- Understanding feature scaling
+- Types of feature scaling techniques
+- Feature scaling implementation in Python
+
+**Day 5: Data Cleaning and Preparation for Analysis**
+
+- Techniques for data cleaning and preparation
+- Data cleaning and preparation implementation in Python
+
+## Week 4: Regression Analysis
+
+In the fourth week, you'll delve into regression analysis, covering different types of regression algorithms and model evaluation.
+
+- Overview of regression analysis
+- Simple linear regression
+- Multiple linear regression
+- Polynomial regression
+- Regularization techniques (Ridge and Lasso)
+
+**Day 1: Introduction to Regression Analysis**
+
+- Types of regression problems
+- Choosing the right regression algorithm for the right data
+
+**Day 2: Simple Linear Regression**
+
+- Understanding the simple linear regression algorithm
+- Simple linear regression implementation in Python
+- Model evaluation and optimization
+
+**Day 3: Multiple Linear Regression**
+
+- Understanding the multiple linear regression algorithm
+- Multiple linear regression implementation in Python
+- Model evaluation and optimization
+
+**Day 4: Polynomial Regression**
+
+- Understanding the polynomial regression algorithm
+- Polynomial regression implementation in Python
+- Model evaluation and optimization
+
+**Day 5: Non-Linear Regression**
+Focus on data cleaning and preparation – discover techniques for cleaning and preparing your data for analysis using Python.
+
+- Understanding the non-linear regression algorithm
+- Non-linear regression implementation in Python
+- Model evaluation and optimization
+
+
