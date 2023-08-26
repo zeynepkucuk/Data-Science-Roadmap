@@ -24,17 +24,61 @@ To begin your data science journey, follow the weekly breakdown outlined below. 
 
 ## Week 1: Introduction to Data Science
 
+- What is Data Science?
+- Overview of the Data Science process
+- Tools and technologies used in Data Science
+- Overview of the Python programming language
+- Basic programming concepts (variables, data types, control structures, functions, etc.)
+- Introduction to Jupyter Notebook
+
 In the first week, you'll receive a comprehensive introduction to the field of data science. This includes an overview of the data science process, the tools and technologies used, and a dive into the Python programming language.
 
-**Day 1:** You'll start by understanding the course's structure and setting your expectations and goals. You'll then learn what data science is and gain insights into the data science process.
 
-**Day 2:** This day covers an overview of the tools and technologies commonly used in data science. You'll explore different programming languages like Python and R, databases (SQL and NoSQL), data visualization libraries (Matplotlib, Seaborn, Tableau, PowerBI), and machine learning frameworks (scikit-learn, TensorFlow, PyTorch).
+You'll start by understanding the course's structure and setting your expectations and goals. You'll then learn what data science is and gain insights into the data science process.
 
-**Day 3:** Get familiar with the Python programming language, its history, features, and advantages. You'll also make comparisons with other programming languages.
+- Introduction to the course
+- Setting expectations and goals
+- What is Data Science?
+- Overview of the Data Science process
 
-**Day 4:** Dive into basic programming concepts in Python, including variables, data types (numeric, string, boolean, etc.), operators (arithmetic, comparison, logical, etc.), control structures (if-else, for loop, while loop, etc.), and functions.
+**Day 2:**
 
-**Day 5:** Introduction to Jupyter Notebook – learn how to set it up, run basic code, use Markdown and LaTeX for documentation, and save and share your Jupyter Notebooks.
+This day covers an overview of the tools and technologies commonly used in data science. You'll explore different programming languages like Python and R, databases (SQL and NoSQL), data visualization libraries (Matplotlib, Seaborn, Tableau, PowerBI), and machine learning frameworks (scikit-learn, TensorFlow, PyTorch).
+
+- Overview of tools and technologies used in Data Science
+- Programming languages (Python, R)
+- Data storage and retrieval (SQL, NoSQL databases)
+- Data visualization (Matplotlib, Seaborn, Tableau, PowerBI)
+- Machine learning libraries (scikit-learn, TensorFlow, PyTorch)
+
+**Day 3:**
+Get familiar with the Python programming language, its history, features, and advantages. You'll also make comparisons with other programming languages. 
+
+- Overview of the Python programming language
+- History and evolution of Python
+- Key features and advantages of Python
+- Comparison with other programming languages
+
+**Day 4:**
+Dive into basic programming concepts in Python, including variables, data types (numeric, string, boolean, etc.), operators (arithmetic, comparison, logical, etc.), control structures (if-else, for loop, while loop, etc.), and functions.
+
+- Basic programming concepts in Python
+  - Variables
+  - Data types (numeric, string, boolean, etc.)
+  - Operators (arithmetic, comparison, logical, etc.)
+  - Control structures (if-else, for loop, while loop, etc.)
+  - Functions
+
+**Day 5:**
+Introduction to Jupyter Notebook – learn how to set it up, run basic code, use Markdown and LaTeX for documentation, and save and share your Jupyter Notebooks.
+
+
+- Introduction to Jupyter Notebook
+- Setting up Jupyter Notebook
+- Running basic code in Jupyter Notebook
+- Using Markdown and LaTeX in Jupyter Notebook
+- Saving and sharing Jupyter Notebooks
+
 
 ## Week 2: Data Exploration and Visualization
 
