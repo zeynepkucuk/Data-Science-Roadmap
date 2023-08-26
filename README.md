@@ -5,16 +5,16 @@ Data Science Roadmap For Beginners
 ## :beginner: Beginner :beginner:
 
 ## Week 1: Introduction to Data Science
-** What is Data Science? **
-** Overview of the Data Science process **
-** Tools and technologies used in Data Science **
-** Overview of Python programming language **
-** Basic programming concepts (variables, data types, control structures, functions, etc.) **
-** Introduction to Jupyter Notebook **
+** What is Data Science? **<br>
+** Overview of the Data Science process **<br>
+** Tools and technologies used in Data Science **<br>
+** Overview of Python programming language **<br>
+** Basic programming concepts (variables, data types, control structures, functions, etc.) **<br>
+** Introduction to Jupyter Notebook **<br>
 
 ## Day 1:
 
-** Introduction to the course **
-** Setting expectations and goals **
-** What is Data Science? **
-** Overview of the Data Science process **
+** Introduction to the course **<br>
+** Setting expectations and goals **<br>
+** What is Data Science? **<br>
+** Overview of the Data Science process **<br>
