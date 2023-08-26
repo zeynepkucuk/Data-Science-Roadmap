@@ -71,6 +71,7 @@ Dive into basic programming concepts in Python, including variables, data types 
   - Functions
 
 **Day 5:**
+
 Introduction to Jupyter Notebook – learn how to set it up, run basic code, use Markdown and LaTeX for documentation, and save and share your Jupyter Notebooks.
 
 
@@ -98,6 +99,7 @@ Introduction to the Pandas library for data manipulation and analysis. Learn abo
 - Understanding Pandas data structures (Series and DataFrame)
 
 **Day 2: Reading and manipulating data with Pandas**
+
  Dig deeper into Pandas – reading and manipulating data from various sources (CSV, Excel, JSON), exploring data using methods like `head`, `tail`, and `shape`, selecting and filtering data, handling missing values, and performing grouping and aggregation.
  
 - Reading data from various sources (CSV, Excel, JSON, etc.)
@@ -115,6 +117,7 @@ Explore basic data exploration and visualization techniques using Matplotlib. Le
 - Scatter plots
 
 **Day 4: Introduction to Seaborn library**
+
 Introduction to the Seaborn library for advanced data visualization. Install and set up Seaborn, compare it with Matplotlib, and create various plots such as `distplot`, `countplot`, and `violinplot`.
 
 - Installation and setup of Seaborn
@@ -143,12 +146,14 @@ In the third week, you'll learn essential techniques for preparing and cleaning 
 - Introduction to scikit-learn library
 
 **Day 1: Introduction to Data Preprocessing**
+
 Understand the importance of data preprocessing and different types of techniques used. Recognize how data preprocessing impacts the quality of your analysis.
 
 - The importance of data preprocessing
 - Types of data preprocessing techniques
 
 **Day 2: Handling Missing Data**
+
 Learn about missing data – what it is, strategies for handling it, and techniques for imputing missing data in Python.
 
 - Understanding missing data
@@ -156,6 +161,7 @@ Learn about missing data – what it is, strategies for handling it, and techniq
 - Missing data imputation techniques in Python
 
 **Day 3: Handling Outliers**
+
 Dive into outlier detection and treatment – understand what outliers are, strategies for dealing with them, and techniques to identify outliers using Python.
 
 - Understanding outliers
@@ -208,10 +214,306 @@ In the fourth week, you'll delve into regression analysis, covering different ty
 - Model evaluation and optimization
 
 **Day 5: Non-Linear Regression**
+
 Focus on data cleaning and preparation – discover techniques for cleaning and preparing your data for analysis using Python.
 
 - Understanding the non-linear regression algorithm
 - Non-linear regression implementation in Python
 - Model evaluation and optimization
+
+  
+## Week 5: Classification
+
+In the fifth week, you'll delve into classification algorithms and techniques.
+
+- Overview of classification
+- Logistic regression
+- K-Nearest Neighbors (KNN)
+- Decision trees and Random Forests
+- Support Vector Machines (SVM)
+
+**Day 1: Introduction to Classification**
+
+- Types of classification problems
+- Choosing the right classification algorithm for the right data
+
+**Day 2: Logistic Regression**
+
+- Understanding the logistic regression algorithm
+- Logistic regression implementation in Python
+- Model evaluation and optimization
+
+**Day 3: k-Nearest Neighbors (k-NN)**
+
+- Understanding the k-NN algorithm
+- k-NN implementation in Python
+- Model evaluation and optimization
+
+**Day 4: Decision Trees**
+
+- Understanding the decision tree algorithm
+- Decision tree implementation in Python
+- Model evaluation and optimization
+
+**Day 5: Support Vector Machines (SVM)**
+
+- Understanding the SVM algorithm
+- SVM implementation in Python
+- Model evaluation and optimization
+
+## Week 6: Clustering
+
+In the sixth week, you'll learn about clustering techniques for unsupervised learning.
+
+- Overview of clustering
+- K-Means clustering
+- Hierarchical clustering
+- Density-Based clustering
+
+**Day 1: Introduction to Clustering**
+
+- Types of clustering algorithms (centroid-based, density-based, etc.)
+- Distance metrics for clustering (Euclidean, Manhattan, Cosine, etc.)
+- Choosing the right clustering algorithm for the right data
+
+**Day 2: Clustering with scikit-learn**
+
+- KMeans
+- Agglomerative Clustering
+- DBSCAN
+- Gaussian Mixture Model (GMM)
+- Model evaluation (silhouette score, calinski-harabasz score, etc.)
+
+**Day 3: Dimensionality Reduction for Clustering**
+
+- PCA
+- t-SNE
+- UMAP
+
+**Day 4: Clustering with Unstructured Data**
+
+- Text clustering
+- Image clustering
+
+**Day 5: Applications of Clustering**
+
+- Customer segmentation
+- Anomaly detection
+- Recommender systems
+
+## Week 7: Dimensionality Reduction
+
+In the seventh week, you'll explore dimensionality reduction techniques.
+
+- Overview of dimensionality reduction
+- Principal Component Analysis (PCA)
+- Linear Discriminant Analysis (LDA)
+- t-distributed Stochastic Neighbor Embedding (t-SNE)
+
+**Day 1: Introduction to Dimensionality Reduction**
+
+- Need for dimensionality reduction
+- Types of dimensionality reduction techniques
+- Choosing the right technique for the right data
+
+**Day 2: Principal Component Analysis (PCA)**
+
+- Understanding the PCA algorithm
+- PCA implementation in Python
+- PCA visualization
+- PCA applications
+
+**Day 3: Linear Discriminant Analysis (LDA)**
+
+- Understanding the LDA algorithm
+- LDA implementation in Python
+- LDA visualization
+- LDA applications
+
+**Day 4: t-SNE**
+
+- Understanding the t-SNE algorithm
+- t-SNE implementation in Python
+- t-SNE visualization
+- t-SNE applications
+
+**Day 5: Applications of Dimensionality Reduction**
+
+- Face recognition
+- Handwritten digit recognition
+- Cancer diagnosis
+
+## Week 8: Model Evaluation and Hyperparameter Tuning
+
+In the eighth week, you'll learn about model evaluation, hyperparameter tuning, and ensemble methods.
+
+- Model evaluation metrics (accuracy, precision, recall, F1 score, etc.)
+- Overfitting and underfitting
+- Hyperparameter tuning using GridSearchCV and RandomizedSearchCV
+- Bias-Variance trade-off
+
+**Day 1: Introduction to Model Evaluation**
+
+- Metrics for classification (accuracy, F1-score, ROC AUC, etc.)
+- Metrics for regression (mean absolute error, mean squared error, R2 score, etc.)
+- Overfitting and underfitting
+
+**Day 2: Cross-validation Techniques**
+
+- K-Fold Cross-Validation
+- Stratified K-Fold Cross-Validation
+- Leave-One-Out Cross-Validation
+- Model evaluation with cross-validation
+
+**Day 3: Hyperparameter Tuning**
+
+- Grid Search
+- Random Search
+- Bayesian Optimization
+- Model evaluation with hyperparameter tuning
+
+**Day 4: Model Selection and Ensemble Methods**
+
+- Bagging and Random Forest
+- Boosting and AdaBoost
+- Model evaluation with model selection and ensemble methods
+
+**Day 5: Applications of Model Evaluation and Hyperparameter Tuning**
+
+- Fraud detection
+- Credit scoring
+- Customer churn prediction
+
+## Week 9: Ensemble Methods
+
+In the ninth week, you'll delve deeper into ensemble methods.
+
+- Overview of ensemble methods
+- Bagging and Random Forests
+- Boosting (AdaBoost and Gradient Boosting)
+- Stacking
+
+**Day 1: Introduction to Ensemble Methods**
+
+- Bagging
+- Random Forest
+- Boosting
+- Stacking
+- Choosing the right ensemble method for the right data
+
+**Day 2: Bagging and Random Forest**
+
+- Training and prediction
+- Model evaluation
+- Hyperparameter tuning
+
+**Day 3: Boosting**
+
+- AdaBoost
+- Gradient Boosting
+- XGBoost
+- Model evaluation
+- Hyperparameter tuning
+
+**Day 4: Stacking**
+
+- Model training and prediction
+- Model evaluation
+- Hyperparameter tuning
+
+**Day 5: Applications of Ensemble Methods**
+
+- Fraud detection
+- Credit scoring
+- Customer churn prediction
+
+## Week 10: Deep Learning
+
+In the tenth week, you'll explore the fascinating field of deep learning.
+
+- Introduction to artificial neural networks (ANNs)
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks (RNNs)
+- Long Short-Term Memory (LSTM)
+
+**Day 1: Introduction to Deep Learning**
+
+- Artificial Neural Networks
+- Convolutional Neural Networks
+- Recurrent Neural Networks
+- Long Short-Term Memory
+- Choosing the right deep learning algorithm for the right data
+
+**Day 2: Artificial Neural Networks**
+
+- Perceptron
+- Multi-layer Perceptron
+- Model evaluation
+- Hyperparameter tuning
+
+**Day 3: Convolutional Neural Networks**
+
+- Image classification with CNNs
+- Object detection with CNNs
+- Model evaluation
+- Hyperparameter tuning
+
+**Day 4: Recurrent Neural Networks**
+
+- Time series prediction with RNNs
+- Text classification with RNNs
+- Model evaluation
+- Hyperparameter tuning
+
+**Day 5: Long Short-Term Memory**
+
+- Time series prediction with LSTMs
+- Text classification with LSTMs
+- Model evaluation
+- Hyperparameter tuning
+
+## Week 11: Project and Presentation
+
+In the eleventh week, you'll bring all the concepts together in a real-world project.
+
+- Integration of all the concepts learned in the previous weeks
+- Real-world data science project with a focus on a specific problem
+- Presentation of the project and discussion of results.
+
+**Day 1: Project Idea Generation**
+
+- Choosing a real-world problem to solve
+- Defining the project scope
+- Formulating the research question
+
+**Day 2-3: Data Collection and Cleaning**
+
+- Gathering data from various sources
+- Handling missing values
+- Dealing with outliers
+- Data transformation and normalization
+
+**Day 4-5: Data Analysis and Modeling**
+
+- Exploratory Data Analysis (EDA)
+- Feature engineering and selection
+- Model building and evaluation
+- Model tuning and optimization
+
+**Day 6: Final Project Presentation Preparation**
+
+- Organizing the results and findings
+- Preparing slides and visualizations
+- Rehearsing the presentation
+
+**Day 7: Final Project Presentation**
+
+- Presenting the project to the class
+- Receiving feedback from classmates and instructors
+
+
+## Contribution
+
+Feel free to contribute to this project! If you have suggestions, improvements, or new content to add.
 
 
