@@ -2,8 +2,7 @@
 
 Welcome to the Data Science Beginner's Roadmap! This repository is designed to guide beginners through the process of learning data science from scratch. Whether you're completely new to the field or have some prior experience, this roadmap will help you build a strong foundation in data science concepts and techniques.
 
-&emsp;&emsp;[Why Data Science?](https://womaneng.com/why-data-science/) ♥️<br>
-
+For more information about why data science is important, you can visit [this link](https://womaneng.com/why-data-science/).
 
 
 ## Getting Started
