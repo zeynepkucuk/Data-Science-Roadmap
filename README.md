@@ -27,10 +27,11 @@ To begin your data science journey, follow the weekly breakdown outlined below. 
 
 ## Week 1: Introduction to Data Science
 
+
 - [ What is Data Science?](https://womaneng.com/what-is-data-science/)<br>
 - [Overview of the Data Science process](https://womaneng.com/what-is-data-science/)<br>
 - [Tools and technologies used in Data Science](https://womaneng.com/tools-and-technologies-in-data-science/)<br>
-- Overview of the Python programming language
+- [Overview of the Python programming language](https://womaneng.com/overview-of-the-python-programming-language/)<br>
 - Basic programming concepts (variables, data types, control structures, functions, etc.)
 - Introduction to Jupyter Notebook
 
